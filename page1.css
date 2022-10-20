@@ -145,8 +145,9 @@ img {
 }
   
 .images {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 1px;
+    padding-right: 1px;
+    width: 200px;
 }
 
 .name {
